@@ -1,6 +1,2 @@
-#include<iostream>
-
-int main(void){
-
-	return 0;
-}
+a.cpp 1
+a.cpp 2
